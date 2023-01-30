@@ -2,15 +2,18 @@
 
 ### hi there
 
-I’m currently learning the following technologies:-
-*JS development
-*React
-*SQL server database management
-*TensorFlow
-*Firebase
-*MongoDB
+
+I’m currently learning the following technologies
+* JS development
+* React
+* SQL server database management
+* TensorFlow
+* Firebase
+* MongoDB
+
 
 How to reach me: **20jc11@queensu.ca**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
