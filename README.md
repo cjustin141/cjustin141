@@ -20,8 +20,6 @@ What I plan on learning next:
 
 How to reach me: **20jc11@queensu.ca**
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/justin-chen-458441221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-chen-458441221/" height="30" width="40" /></a>
