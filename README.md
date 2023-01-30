@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">Justin Chen</h1>            
 
-- 🌱 I’m currently learning **React, TensorFlow, MongoDB**
+I’m currently learning **React, TensorFlow, MongoDB**
 
-- 📫 How to reach me **20jc11@queensu.ca**
+How to reach me **20jc11@queensu.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
