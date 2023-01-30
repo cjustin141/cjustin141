@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Justin Chen</h1>  
+<h1 style="text-align: center;">I'm Justin Chen</h1>  
 
 ### Welcome to my github!
 
