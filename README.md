@@ -12,9 +12,9 @@ I’m learning the following technologies:
 <br>
 
 What I plan on learning next:
-* TensorFlow
-* Firebase
-* MongoDB
+1. TensorFlow
+2. Firebase
+3. MongoDB
 
 <br>
 
