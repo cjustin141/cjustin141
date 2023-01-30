@@ -4,10 +4,14 @@
 
 <br>
 
-I’m currently learning the following technologies
+I’m currently learning the following technologies:
 * JS development
 * React
 * SQL server database management
+
+<br>
+
+What I plan on learning next:
 * TensorFlow
 * Firebase
 * MongoDB
