@@ -1,7 +1,10 @@
-<h1 style="text-align: center;">Justin Chen</h1>            
+<h1 style="text-align: center;">Justin Chen</h1>  
+
+<br.
 
 ### hi there
 
+<br>
 
 I’m currently learning the following technologies
 * JS development
@@ -11,9 +14,11 @@ I’m currently learning the following technologies
 * Firebase
 * MongoDB
 
+<br>
 
 How to reach me: **20jc11@queensu.ca**
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
