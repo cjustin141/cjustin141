@@ -2,7 +2,7 @@
 
 ### hi there
 
-I’m currently learning the following technologies 
+I’m currently learning the following technologies:-
 *JS development
 *React
 *SQL server database management
