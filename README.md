@@ -1,8 +1,6 @@
 <h1 style="text-align: center;">Justin Chen</h1>  
 
-<br.
-
-### hi there
+### Welcome to my github!
 
 <br>
 
