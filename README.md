@@ -1,5 +1,4 @@
-<h1 style="text-align: center;">Justin Chen text</h1>            
----
+<h1 style="text-align: center;">Justin Chen</h1>            
 
 - 🌱 I’m currently learning **React, TensorFlow, MongoDB**
 
