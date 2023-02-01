@@ -7,7 +7,6 @@
 I’m learning the following technologies:
 * JS development
 * React
-* SQL server database management
 * Tailwind CSS
 
 <br>
