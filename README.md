@@ -5,16 +5,14 @@
 <br>
 
 I’m learning the following technologies:
-* JS development
-* React
-* Tailwind CSS
+* PyTorch
+* Computer Vision
 
 <br>
 
 What I plan on learning next:
-1. TensorFlow
-2. Firebase
-3. MongoDB
+1. Firebase
+2. MongoDB
 
 <br>
 
