@@ -2,20 +2,6 @@
 
 ### Welcome to my github!
 
-<br>
-
-I’m learning the following technologies:
-* PyTorch
-* Computer Vision
-
-<br>
-
-What I plan on learning next:
-1. Firebase
-2. MongoDB
-
-<br>
-
 How to reach me: **20jc11@queensu.ca**
 
 <h3 align="left">Connect with me:</h3>
