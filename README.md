@@ -2,7 +2,7 @@
 
 ### Welcome to my github!
 
-How to reach me: **20jc11@queensu.ca**
+How to reach me: **justin.ch3n@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
